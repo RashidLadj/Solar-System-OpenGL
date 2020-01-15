@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1543928239 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\tp3\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1547592566 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	"Planete.h"
+	"Coordonnees.h"
+	<cmath>
+	<vector>
+	<GL/freeglut.h>
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\soil.h
+
+1215450808 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\image_dxt.h
+
+1215450808 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\image_helper.h
+
+1215450808 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\soil.h
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\stb_image_aug.h
+	<stdio.h>
+
+1215450808 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\stbi_dds_aug.h
+
+1215450808 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\simple opengl image library\src\stbi_dds_aug_c.h
+
+1547592536 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\src\planete.cpp
+	"Planete.h"
+	<windows.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<math.h>
+
+1547592595 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\include\planete.h
+	<string>
+	"Coordonnees.h"
+
+1546092172 source:d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\src\coordonnees.cpp
+	"Coordonnees.h"
+	<math.h>
+
+1546089927 d:\etudes et logiciels\master informatique visuelle\s3\synthèse d'image\séries tps\projet\include\coordonnees.h
+
+1547592566 source:d:\etudes et logiciels\usthb\master informatique visuelle\s3\synthèse d'image\séries tps\projet\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	"Planete.h"
+	"Coordonnees.h"
+	<cmath>
+	<vector>
+	<GL/freeglut.h>
+
+1547592595 d:\etudes et logiciels\usthb\master informatique visuelle\s3\synthèse d'image\séries tps\projet\include\planete.h
+	<string>
+	"Coordonnees.h"
+
+1546089927 d:\etudes et logiciels\usthb\master informatique visuelle\s3\synthèse d'image\séries tps\projet\include\coordonnees.h
+
+1546092172 source:d:\etudes et logiciels\usthb\master informatique visuelle\s3\synthèse d'image\séries tps\projet\src\coordonnees.cpp
+	"Coordonnees.h"
+	<math.h>
+
+1547592536 source:d:\etudes et logiciels\usthb\master informatique visuelle\s3\synthèse d'image\séries tps\projet\src\planete.cpp
+	"Planete.h"
+	<windows.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<math.h>
+
+1547592566 source:c:\users\userpc\downloads\solat-system\sourcecodes\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	"Planete.h"
+	"Coordonnees.h"
+	<cmath>
+	<vector>
+	<GL/freeglut.h>
+
+1547592595 c:\users\userpc\downloads\solat-system\sourcecodes\include\planete.h
+	<string>
+	"Coordonnees.h"
+
+1546089927 c:\users\userpc\downloads\solat-system\sourcecodes\include\coordonnees.h
+
+1546092172 source:c:\users\userpc\downloads\solat-system\sourcecodes\src\coordonnees.cpp
+	"Coordonnees.h"
+	<math.h>
+
+1547592536 source:c:\users\userpc\downloads\solat-system\sourcecodes\src\planete.cpp
+	"Planete.h"
+	<windows.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<math.h>
+
